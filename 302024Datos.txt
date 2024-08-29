@@ -1,0 +1,7 @@
+Nombre(s): Pablo 
+Apellidos: Guillen
+Edad: 21
+Telefono: 1234532123
+Estatura: 175cm
+Genero: Hombre
+
