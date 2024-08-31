@@ -5,3 +5,10 @@ Telefono: 1234532123
 Estatura: 175cm
 Genero: Hombre
 
+Nombre(s): Alejandro
+Apellidos: Guillen
+Edad: 23
+Telefono: 1234567899
+Estatura: 1.92cm
+Genero: Hombre
+
